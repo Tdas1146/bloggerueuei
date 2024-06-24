@@ -2,15 +2,15 @@ import type { Config } from '@/types';
 
 const pwaConfig: Config = {
   version: '1.0',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'webExamCare',
+  shortName: 'webExamCare',
+  description: 'A Educational Website',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
-  orientation: 'any',
+  orientation: 'natural',
   scope: '/',
   startUrl: '/?utm_source=homescreen',
   appleStatusBarStyle: 'black-translucent',
@@ -39,7 +39,7 @@ const pwaConfig: Config = {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://webexamcare.blogspot.com',
 };
 
 export default pwaConfig;
