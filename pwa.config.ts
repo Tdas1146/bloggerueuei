@@ -10,7 +10,7 @@ const pwaConfig: Config = {
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
-  orientation: 'natural',
+  orientation: 'any',
   scope: '/',
   startUrl: '/?utm_source=homescreen',
   appleStatusBarStyle: 'black-translucent',
