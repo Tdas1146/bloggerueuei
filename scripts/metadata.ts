@@ -1,5 +1,5 @@
 /**
- * This is auto generated metadata file, generated at: Mon Jun 24 2024 21:39:27 GMT+0000 (Coordinated Universal Time)
+ * This is auto generated metadata file, generated at: Mon Jun 24 2024 21:55:52 GMT+0000 (Coordinated Universal Time)
  * Prevent making any changes here
  */
 
@@ -24,5 +24,5 @@ export interface Metadata {
 }
 
 export const metadata = JSON.parse(
-  '{"github":{"repository":"Tdas1146/bloggerueuei","branch":"main"},"pwa":{"serviceWorker":"/app/serviceworker.js","oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true},"build":{"hash":"ekXyN2RulzPWrXf27Miq1"}}',
+  '{"github":{"repository":"Tdas1146/bloggerueuei","branch":"main"},"pwa":{"serviceWorker":"/app/serviceworker.js","oneSignalEnabled":false,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"********-****-****-****-************","allowLocalhostAsSecureOrigin":true},"logs":true},"build":{"hash":"br7BCjbmfdTYwePgMHbJE"}}',
 ) as Metadata;
