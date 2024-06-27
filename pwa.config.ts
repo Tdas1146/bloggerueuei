@@ -32,9 +32,9 @@ const pwaConfig: Config = {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: '0963a5a8-49d3-470c-ae5a-2fe89f1c4d91',
       allowLocalhostAsSecureOrigin: true,
     },
   },
