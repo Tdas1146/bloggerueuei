@@ -17,24 +17,24 @@ const pwaConfig: Config = {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
+      name: 'PSC ক্লার্কশীপ পরীক্ষা',
+      shortName: 'PSC Clarkship Exam',
       description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      url: 'https://webexamcare.blogspot.com/p/wbpsc-clerk.html?m=1',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: ' মাধ্যমিক প্রস্তুতি',
+      shortName: ' মাধ্যমিক প্রস্তুতি',
+      description: ' মাধ্যমিক পরীক্ষার্থীদের জন্য প্রস্তুতির জন্য বিষয়ভিত্তিক প্রশ্ন উত্তর ও সাজেশন  ',
+      url: 'https://webexamcare.blogspot.com/p/madhyamik.html?m=1',
     },
   ],
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: true,
+    oneSignalEnabled: false,
     oneSignalConfig: {
-      appId: '0963a5a8-49d3-470c-ae5a-2fe89f1c4d91',
+      appId: '',
       allowLocalhostAsSecureOrigin: true,
     },
   },
