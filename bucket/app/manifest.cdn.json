@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
+      "name": "PSC ক্লার্কশীপ পরীক্ষা",
+      "short_name": "PSC Clarkship Exam",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://webexamcare.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://webexamcare.blogspot.com/p/wbpsc-clerk.html?m=1",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://webexamcare.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": " মাধ্যমিক প্রস্তুতি",
+      "short_name": " মাধ্যমিক প্রস্তুতি",
+      "description": " মাধ্যমিক পরীক্ষার্থীদের জন্য প্রস্তুতির জন্য বিষয়ভিত্তিক প্রশ্ন উত্তর ও সাজেশন  ",
+      "url": "https://webexamcare.blogspot.com/p/madhyamik.html?m=1",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
